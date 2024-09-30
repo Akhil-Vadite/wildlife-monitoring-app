@@ -1,0 +1,25 @@
+.quiz {
+    margin: 20px;
+    text-align: center;
+}
+
+.question-section, .answer-section {
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #f0f0f0;
+}
+
+.score-section {
+    font-size: 24px;
+    font-weight: bold;
+    color: green;
+}
