@@ -11,11 +11,13 @@ function Navbar() {
         <li><Link to="/problem">Problem Statement</Link></li>
         <li><Link to="/solution">Solution</Link></li>
         <li><Link to="/challenges">Challenges</Link></li>
+        <li><Link to="/images">Images</Link></li> {/* New link for images */}
       </ul>
     </nav>
   );
 }
 
 export default Navbar;
+
 
 

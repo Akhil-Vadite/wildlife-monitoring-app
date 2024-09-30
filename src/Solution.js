@@ -22,7 +22,7 @@ function Solution() {
   continuously improves its accuracy over time as it processes more data.
 </p>
 
-      <img src="/images/image 3.jpg" alt="Challenges in Monitoring" style={{ width: '100', height: '100' }} />
+      <img src="/images/image 3.jpg" alt="image 4" style={{ width: '100', height: '100' }} />
       <p>
         This solution provides instant data on animal populations, eliminates the long delays
         of manual data processing, and is non-invasive, preserving the natural behavior of the wildlife.

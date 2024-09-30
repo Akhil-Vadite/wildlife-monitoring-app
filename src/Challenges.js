@@ -26,7 +26,7 @@ function Challenges() {
   the success of the solution in real-world applications.
 </p>
 
-      <img src="/images/image 4.jpg" alt="Challenges in Monitoring" style={{ width: '100', height: '100' }} />
+      <img src="/images/image 4.jpg" alt="Challenges" style={{ width: '100', height: '100' }} />
       <p>
         Additionally, technical limitations like mobile device processing power can slow down
         real-time analysis, and constant use of mobile cameras can drain battery life quickly.

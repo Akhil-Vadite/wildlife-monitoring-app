@@ -6,6 +6,7 @@ import ProblemStatement from './ProblemStatement';
 import Solution from './Solution';
 import Challenges from './Challenges';
 import Header from './Header';
+import MyComponent from './MyComponent'; // Import the new MyComponent
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/problem" element={<ProblemStatement />} />
           <Route path="/solution" element={<Solution />} />
           <Route path="/challenges" element={<Challenges />} />
+          <Route path="/images" element={<MyComponent />} /> {/* New route for images */}
         </Routes>
       </div>
     </Router>
@@ -25,6 +27,7 @@ function App() {
 }
 
 export default App;
+
 
 
 
