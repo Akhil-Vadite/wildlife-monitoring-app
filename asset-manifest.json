@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wildlife-monitoring-app/static/css/main.1520695e.chunk.css",
+    "main.js": "/wildlife-monitoring-app/static/js/main.6928b688.chunk.js",
+    "main.js.map": "/wildlife-monitoring-app/static/js/main.6928b688.chunk.js.map",
+    "runtime~main.js": "/wildlife-monitoring-app/static/js/runtime~main.05982c42.js",
+    "runtime~main.js.map": "/wildlife-monitoring-app/static/js/runtime~main.05982c42.js.map",
+    "static/js/2.8851f76e.chunk.js": "/wildlife-monitoring-app/static/js/2.8851f76e.chunk.js",
+    "static/js/2.8851f76e.chunk.js.map": "/wildlife-monitoring-app/static/js/2.8851f76e.chunk.js.map",
+    "static/js/3.68d536b4.chunk.js": "/wildlife-monitoring-app/static/js/3.68d536b4.chunk.js",
+    "static/js/3.68d536b4.chunk.js.map": "/wildlife-monitoring-app/static/js/3.68d536b4.chunk.js.map",
+    "index.html": "/wildlife-monitoring-app/index.html",
+    "precache-manifest.c374196caa4dbfbf2e3d2e786e4911d8.js": "/wildlife-monitoring-app/precache-manifest.c374196caa4dbfbf2e3d2e786e4911d8.js",
+    "service-worker.js": "/wildlife-monitoring-app/service-worker.js",
+    "static/css/main.1520695e.chunk.css.map": "/wildlife-monitoring-app/static/css/main.1520695e.chunk.css.map"
+  }
+}
