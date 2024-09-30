@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wildlife-monitoring-app/precache-manifest.ac56ece5d61c6d2dd62653d82d2584d0.js"
+  "/wildlife-monitoring-app/precache-manifest.b7492e86c58f43cc115297dcfb86ba93.js"
 );
 
 self.addEventListener('message', (event) => {
