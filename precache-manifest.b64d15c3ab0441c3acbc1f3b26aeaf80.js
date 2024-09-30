@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26a4ec7d44ac0010d0346fb6e2e875f2",
+    "revision": "3f5e14abe54ca5076f6bb4853d171342",
     "url": "/wildlife-monitoring-app/index.html"
   },
   {
-    "revision": "78b94d9b88d61cfb27b7",
+    "revision": "4176023a779cabe017f0",
     "url": "/wildlife-monitoring-app/static/css/main.1520695e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wildlife-monitoring-app/static/js/3.68d536b4.chunk.js"
   },
   {
-    "revision": "78b94d9b88d61cfb27b7",
-    "url": "/wildlife-monitoring-app/static/js/main.fc302fee.chunk.js"
+    "revision": "4176023a779cabe017f0",
+    "url": "/wildlife-monitoring-app/static/js/main.88f3a497.chunk.js"
   },
   {
     "revision": "08919ee452cb5f000078",
